@@ -1,6 +1,5 @@
 # vue-web-project
-vue + element + fetch 
--
+
 源链接：vue-spa-project (https://github.com/xiaoping6688/vue-spa-project)
 
 ## 使用
